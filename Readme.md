@@ -10,7 +10,8 @@ The project combines **data modeling**, **custom visuals**, and **SQL-based logi
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Images/dashboard.png)
+
 > A high-level overview of KPIs, uplift analysis, and trend insights in an interactive Power BI report.
 
 ---
