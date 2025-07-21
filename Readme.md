@@ -94,14 +94,4 @@ These queries were used either as raw data sources or for pre-processing insight
 1. Open `quries.sql` in any SQL editor (MySQL Workbench, DBeaver, etc.)  
 2. Run queries against the **RetailTransactions** table  
 3. Modify WHERE clauses for different timeframes or filters
-
----
-
-## 🤝 Credits & Acknowledgments
-
-Special thanks to:
-- The business strategy team for defining key metrics and goals  
-- Data engineers who helped structure the base data and provided validation support  
-- Reviewers and stakeholders for iterative feedback during development
-
 ---
